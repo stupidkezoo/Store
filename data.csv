@@ -1,0 +1,7 @@
+computer;1;[formFactor:13,serial:2,manufacturer:qw1e,price:122]
+computer;8;[formFactor:13,serial:2,manufacturer:qw1e,price:122]
+laptop;4;[diagonal:13,serial:3,manufacturer:qwe,price:122]
+hdd;2;[size:13,serial:4,manufacturer:qwe,price:1122]
+monitor;1;[diagonal:13,serial:1,manufacturer:qwe,price:2122]
+laptop;2;[diagonal:13,serial:7,manufacturer:qwe,price:3122]
+monitor;1;[diagonal:13,serial:1,manufacturer:qwe,price:122]
